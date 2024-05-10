@@ -27,6 +27,9 @@ $$
 
 - $T = \frac{3}{2} \cdot p \cdot ( \lambda_m \cdot i_q - \lambda_r \cdot i_d )$
 
+- $T = \frac{3}{2} P \left( \lambda_{m} I_{Q} - \frac{d\lambda_{m}}{dt} \right)$
+
+$T = K_T \cdot I_{Q} - \frac{3}{2} P \cdot \frac{d\lambda_{m}}{dt}$
 其中，$T$ 是电机的输出转矩
 
 ## 运动方程
